@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SessionLiveQA</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">1820122511624488</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">1820122511624488</string>
+    <string name="sald_nsajdkkka">sald\nsajdkkka\nsdad\nasdsad\nadsadsad\nasdadad\naaaaaaad\nadsald\nsajdkkka\nsdad\nasdsad\nadsadsad\nasdadad\naaaaaaad\nadaaaaaaaaaaasssssssssssss</string>
+    <string name="error_toast_unable_to_fetch">Error while fetching questions</string>
+    <string name="adapter_question_edit">Edit</string>
+    <string name="adapter_question_answer">Answer</string>
+    <string name="adapter_question_delete">Delete</string>
+    <string name="question_hint_title">Title</string>
+    <string name="question_hint">Question</string>
+    <string name="question_submit">Submit</string>
+    <string name="answer_hint">Answer</string>
+    <string name="home_menu_logout">Logout</string>
+    <string name="alert_message_logout">Are you sure to logout?</string>
+    <string name="toast_message_unable_to_logout">Unable to logout, please try again later</string>
+    <string name="toast_message_contact_admin">Please contact administrator to add you as admin</string>
+    <string name="error_toast_unable_to_answer">Unable to post answer</string>
+    <string name="success_toast_answer_posted">Answer posted successfully</string>
+    <string name="success_toast_question_deleted">Question deleted successfully</string>
+    <string name="error_toast_delete_question">Error occurred while deleting question</string>
+    <string name="alert_message_delete_question">Are you sure to delete this question?</string>
+    <string name="wait_toast_message">Please wait…</string>
+    <string name="error_toast_unable_to_login">Unable to login, please try some other method</string>
+    <string name="success_toast_message_posted">Question posted</string>
+    <string name="error_toast_unable_to_post_question">Unable to post question</string>
+
+</resources>

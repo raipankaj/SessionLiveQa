@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="question_separator_margin_top">8dp</dimen>
+    <dimen name="question_separator_height">1dp</dimen>
+    <dimen name="question_separator_margin">12dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="answer_separator_margin_top">48dp</dimen>
+    <dimen name="adapter_question_space_height">28dp</dimen>
+    <dimen name="answer_by_text_size">12sp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="adapter_question_card_radius">12dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+</resources>
